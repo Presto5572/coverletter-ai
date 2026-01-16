@@ -1,0 +1,14 @@
+// Dynamic prompt logic components //
+
+----> This folder is where you keep small, reusable prompt modules used for “AI reasoning.”
+
+These are NOT templates
+They are instructions or steps for an AI agent system.
+
+Job/Role Type 	Recommended Tone	Key Characteristics & Example Phrasing
+
+- Law, Finance, Government    Formal & Professional	Maintain a professional and serious tone, focusing on efficiency and procedures using formal language.
+- Marketing, Design, Tech	Creative & Dynamic	Adopt a more relaxed, conversational, and enthusiastic style, highlighting innovation and passion.
+- Non-profit, Education	Enthusiastic & Passionate	Combine professionalism with personal passion, emphasizing commitment and impact.
+- Engineering, IT	Direct & Concise	Be straightforward and focus on facts, technical skills, and achievements, valuing clarity and brevity.
+- Executive/Leadership	Mature, Clear, & Powerful	Demonstrate professionalism, strategic vision, and leadership ability with language that commands respect.

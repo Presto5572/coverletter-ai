@@ -1,0 +1,24 @@
+# TL;DR — Quick restart checklist
+Step:	            Command:
+
+Activate venv       cd coverletter-ai
+                    source venv/bin/activate
+
+Start backend	    cd backend
+                    uvicorn app.main:app --reload
+
+Start frontend	    cd frontend
+                    npm start (in a new terminal)
+
+Test it	Open: http://localhost:3000
+Behind the curtain: http://127.0.0.1:8000/docs
+
+/// Example Test Body ///
+{
+  "name": "Colson Keim",
+  "role": "Data Analyst",
+  "company": "BlackRock",
+  "job_description": "SQL, dashboards, data storytelling, cross-team collaboration",
+  "resume_highlights": "Deloitte SQL internship, Power BI dashboards, automation scripts, cross-functional collaboration",
+  "tone": "startup"
+}
