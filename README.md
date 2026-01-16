@@ -62,4 +62,4 @@ coverletter-ai/
 
 ## Contributing
 Developed by Colson Keim
-AI assistance via OpenAI ChatGPT, Google Gemini, & Microsoft Copilot Chat via VSSCode Extension
+AI assistance via OpenAI ChatGPT, Google Gemini, & Microsoft Copilot Chat via VSCode Extension
